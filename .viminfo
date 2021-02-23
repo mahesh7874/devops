@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1614091364,,"wq"
+|2,0,1614092329,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +25,31 @@
 # Registers:
 
 # File marks:
-'0  2  22  ~/helloworld.java
-|4,48,2,22,1614091364,"~/helloworld.java"
+'0  1  30  ~/hello.jav
+|4,48,1,30,1614092329,"~/hello.jav"
+'1  2  22  ~/helloworld.java
+|4,49,2,22,1614091364,"~/helloworld.java"
 
 # Jumplist (newest first):
+-'  1  30  ~/hello.jav
+|4,39,1,30,1614092329,"~/hello.jav"
+-'  2  22  ~/helloworld.java
+|4,39,2,22,1614091364,"~/helloworld.java"
 -'  2  22  ~/helloworld.java
 |4,39,2,22,1614091364,"~/helloworld.java"
 -'  1  0  ~/helloworld.java
 |4,39,1,0,1614090434,"~/helloworld.java"
+-'  1  0  ~/helloworld.java
+|4,39,1,0,1614090434,"~/helloworld.java"
 
 # History of marks within files (newest to oldest):
+
+> ~/hello.jav
+	*	1614092320	0
+	"	1	30
+	^	1	31
+	.	1	30
+	+	1	30
 
 > ~/helloworld.java
 	*	1614091354	0
